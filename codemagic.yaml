@@ -1,0 +1,10 @@
+workflows:
+  ios-release:
+    name: CoopWatch iOS Release
+    instance_type: mac_mini_m2
+    environment:
+      xcode: latest
+    scripts:
+      - name: Build
+        script: |
+          echo "build aquí"
