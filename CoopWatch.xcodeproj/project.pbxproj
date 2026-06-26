@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A098A172FEE740B00C66CC3 /* codemagic (1).yaml in Resources */ = {isa = PBXBuildFile; fileRef = 3A098A162FEE740B00C66CC3 /* codemagic (1).yaml */; };
+		3A098A192FEE76AC00C66CC3 /* codemagic.yaml in Resources */ = {isa = PBXBuildFile; fileRef = 3A098A182FEE76AC00C66CC3 /* codemagic.yaml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3A098A162FEE740B00C66CC3 /* codemagic (1).yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = "codemagic (1).yaml"; sourceTree = "<group>"; };
+		3A098A182FEE76AC00C66CC3 /* codemagic.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = codemagic.yaml; sourceTree = "<group>"; };
 		EE38DB492FDACFE500AA8EFB /* CoopWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoopWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -50,7 +50,7 @@
 		EE38DB402FDACFE500AA8EFB = {
 			isa = PBXGroup;
 			children = (
-				3A098A162FEE740B00C66CC3 /* codemagic (1).yaml */,
+				3A098A182FEE76AC00C66CC3 /* codemagic.yaml */,
 				EE38DB4B2FDACFE500AA8EFB /* CoopWatch */,
 				EE38DB4A2FDACFE500AA8EFB /* Products */,
 			);
@@ -128,7 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A098A172FEE740B00C66CC3 /* codemagic (1).yaml in Resources */,
+				3A098A192FEE76AC00C66CC3 /* codemagic.yaml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
